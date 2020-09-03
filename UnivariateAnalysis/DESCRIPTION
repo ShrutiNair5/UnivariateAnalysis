@@ -1,0 +1,10 @@
+Package: UnivariateAnalysis
+Type: Package
+Title: Uni variate analysis.
+Version: 0.1.0
+Author: Shruti Nair
+Maintainer: Shruti Nair <shruti.sudhakaran.nair@praxis.ac.in>
+Description: Use to plot univariate analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
